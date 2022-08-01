@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kirsten
 - 👀 I’m interested in ... learning to code!
-- 🌱 I’m currently learning ... Python via CS50x
+- 🌱 I’m currently learning ... foundations of computer science in CS50x
 - 💞️ I’m looking to collaborate on ... projects that spark joy in people
 - 📫 How to reach me ... kirsten.opstad@gmail.com
 
