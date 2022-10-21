@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kirsten
 - 👀 I’m interested in ... learning to code!
-- 🌱 I’m currently learning ... foundations of computer science in CS50x
-- 💞️ I’m looking to collaborate on ... projects that spark joy in people
+- 🌱 I’m currently learning ... HTML, CSS & Javascript at Epicodus
+- 💞️ I’m looking to collaborate on ... open source projects that help connect people
 - 📫 How to reach me ... kirsten.opstad@gmail.com
 
 <!---
