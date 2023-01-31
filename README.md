@@ -4,7 +4,7 @@
   --->
 
 
-![Header](img/ko-couch.png)
+[![Header](img/ko-couch.png)](https://kirstenopstad.github.io/portfolio/)
 ## About Me
 - 👋 Hi, I’m Kirsten. I live in Los Angeles and I write code!
 - 🌱 I’m currently enrolled in [Epicodus](https://www.epicodus.com/) in their full time full stack program.
