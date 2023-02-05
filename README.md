@@ -19,11 +19,11 @@
 
 ## Technologies Used
 * Python | Flask | Jinja
-* C# | .Net | MVC 
-* SQLite | MySql
-* JavaScript | Node.js
-* Html | CSS | Boostrap
-* Git | GitHub
+* C# | .Net | ASP.Net Core
+* SQLite | MySQL
+* JavaScript | Node.js | webpack | Jest | Babel
+* HTML | CSS | Boostrap
+* GitHub
 
 
 ## Elsewhere Online
