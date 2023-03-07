@@ -11,11 +11,11 @@
 - 💞️ I’m looking to collaborate on web apps built using C#/.Net, Javascript/React & Python/Flask
 - 📫 How to reach me -> kirsten.opstad@gmail.com
 
-## Stats
-| | |
+<!-- ## Stats -->
+<!-- | | |
 |:---:|:---:|
 | [![kirstenopstad's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirstenopstad&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![kirstenopstad's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kirstenopstad&theme=dark&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
-| | |
+| | | -->
 
 ## Technologies Used
 * Python | Flask | Jinja
