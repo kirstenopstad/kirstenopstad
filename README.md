@@ -4,7 +4,7 @@
   --->
 
 
-![Header](img/ko-couch.png)
+[![Header](img/ko-couch.png)](https://kirstenopstad.github.io/portfolio/)
 ## About Me
 - 👋 Hi, I’m Kirsten. I live in Los Angeles and I write code!
 - 🌱 I’m currently enrolled in [Epicodus](https://www.epicodus.com/) in their full time full stack program.
@@ -19,11 +19,11 @@
 
 ## Technologies Used
 * Python | Flask | Jinja
-* C# | .Net | MVC 
-* SQLite | MySql
-* JavaScript | Node.js
-* Html | CSS | Boostrap
-* Git | GitHub
+* C# | .Net | ASP.Net Core
+* SQLite | MySQL
+* JavaScript | Node.js | webpack | Jest | Babel
+* HTML | CSS | Boostrap
+* GitHub
 
 
 ## Elsewhere Online
