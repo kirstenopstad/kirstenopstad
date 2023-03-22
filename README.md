@@ -12,9 +12,10 @@
 - 📫 How to reach me -> kirsten.opstad@gmail.com
 
 ## Stats
+*Special thanks to [Anurag Hazra](https://github.com/anuraghazra) for their [stats source code](https://github.com/anuraghazra/github-readme-stats) and documentation.*
 | | |
 |:---:|:---:|
-| [![kirstenopstad's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirstenopstad&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![kirstenopstad's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=kirstenopstad&theme=dark&show_icons=true&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats) |
+| ![kirstenopstad's GitHub stats](https://github-readme-stats-alpha-lime.vercel.app/api?username=kirstenopstad&theme=dark&show_icons=true)| ![kirstenopstad's GitHub stats](https://github-readme-stats-alpha-lime.vercel.app/api/top-langs?username=kirstenopstad&theme=dark&show_icons=true&locale=en&layout=compact) |
 | | |
 
 ## Technologies Used
