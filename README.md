@@ -7,7 +7,7 @@
 [![Header](img/ko-couch.png)](https://built-by-ko.web.app/)
 ## About Me
 - 👋 Hi, I’m Kirsten. I live in Los Angeles and I write code!
-- 🌱 I’m currently enrolled in [Epicodus](https://www.epicodus.com/) in their full time full stack program.
+- 🌱 I’m currently interning at [Advertising Solutions](https://www.advertisingsolutions.agency/), finishing up my full stack certification at [Epicodus](https://www.epicodus.com/).
 - 💞️ I’m looking to collaborate on web apps built using C#/.Net, Javascript/React & Python/Flask
 - 📫 How to reach me -> kirsten.opstad@gmail.com
 
